@@ -8,4 +8,5 @@ app.use(express.static('dist'))
 
 app.listen(PORT, () => {
   console.log('server started on port 8080')
+  console.log('testing PR')
 })
