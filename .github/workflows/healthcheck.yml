@@ -1,8 +1,8 @@
 name: Healthcheck
 
-on:
-  schedule:
-    - cron:  '* 1 * * *'
+#on:
+#  schedule:
+#    - cron:  '* 1 * * *'
 
 jobs:
   health_check_job:
